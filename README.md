@@ -1,2 +1,0 @@
-# CPSC
-CPSP class
